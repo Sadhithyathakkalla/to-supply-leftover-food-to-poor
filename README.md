@@ -14,3 +14,7 @@ Food Connect
 **Objective**
 
 To create an efficient system for collecting and redistributing surplus food from various venues to those in need, using Salesforce as the primary platform for data management and process automation.
+
+**Project Video Link : **
+
+https://drive.google.com/file/d/1oLN228eZrVbucHXkJ5raI-SfzoSCI_1e/view
